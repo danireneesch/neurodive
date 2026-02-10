@@ -1,4 +1,23 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://neurodive.xyz/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'neurodive'
 theme = 'terminal'
+
+[params]
+  # color can be: orange, blue, red, green, pink
+  themeColor = 'blue'
+
+  # set theme to dark or light
+  defaultTheme = 'dark'
+
+  #if you want to show a logo instead of the title
+  # logoText = 'neurodive'
+
+  # show/hide reading time
+  showReadingTime = false
+
+[[menu.main]]
+  identifier = 'about'
+  name = 'about'
+  url = '/about'
+  weight = 10

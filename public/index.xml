@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Neurodive on My New Hugo Site</title>
+    <title>Neurodive on neurodive</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Neurodive on My New Hugo Site</description>
+    <description>Recent content in Neurodive on neurodive</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 09 Feb 2026 20:25:27 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Certified Autist</title>
+      <link>http://localhost:1313/posts/certified-autist/</link>
+      <pubDate>Mon, 09 Feb 2026 20:25:27 -0600</pubDate>
+      <guid>http://localhost:1313/posts/certified-autist/</guid>
+      <description>&lt;p&gt;one time i told someone i was autistic&lt;/p&gt;&#xA;&lt;p&gt;and she said, don’t say that about yourself!&lt;/p&gt;&#xA;&lt;p&gt;oh. ok.&lt;/p&gt;&#xA;&lt;p&gt;to be fair, that was before i became&lt;/p&gt;&#xA;&lt;p&gt;an official, card-carrying autist&lt;/p&gt;&#xA;&lt;p&gt;certified, verified, bona fide&lt;/p&gt;&#xA;&lt;p&gt;i can show you my credentials&lt;/p&gt;&#xA;&lt;p&gt;see this paper right here?&lt;/p&gt;&#xA;&lt;p&gt;F84.0 Autism Spectrum Disorder&lt;/p&gt;&#xA;&lt;p&gt;it took me 27 years to earn that&lt;/p&gt;&#xA;&lt;p&gt;i am very proud!&lt;/p&gt;&#xA;&lt;p&gt;i believe the doctor’s exact words were&lt;/p&gt;&#xA;&lt;p&gt;there’s definitely something going on there&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
